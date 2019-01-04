@@ -1,3 +1,11 @@
 # Capstone Project Ideas
 
 I will discuss my three project ideas here and describe the variables included in each dataset. 
+
+## 1. Right-wing Authoritarianism Scale (RWAS)
+
+This dataset presents the results of over one million people who have taken the RWAS test online. 
+...
+The dataset can answer multiple questions about those with extreme political views, especially of those who consider themselves "right-wing". We can discover various characteristics and personality traits of such group. 
+
+## 2. 
