@@ -20,7 +20,7 @@ Data set: http://openpsychometrics.org/_rawdata/RWAS.zip
 
 There is an increasing rate of suicide incidents in the United States over the past several years. 
 
-### Potential Clients
+### Potential Client(s)
 
 Health organizations would find this information helpful in terms of mortality rate caused by mental illnesses. 
 
