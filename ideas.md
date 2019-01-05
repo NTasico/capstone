@@ -26,7 +26,7 @@ Health organizations would find this information helpful in terms of mortality r
 
 ### Source of Data
 
-The data is extracted from the ICPSR of University of Michigan.  
+The data is extracted from the ICPSR of University of Michigan. The website contains a cohort of social science data sets. 
 
 Data set(s): https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/527
 
