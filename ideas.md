@@ -12,7 +12,7 @@ The dataset can answer multiple questions about those with extreme political vie
 
 Some thinktanks and social science organizations might find interest in such information. 
 
-### Source of Data:
+### Source of Data
 
 Data set: http://openpsychometrics.org/_rawdata/RWAS.zip
 
@@ -22,11 +22,11 @@ Ever since the huge drop in Bitcoin's value between late December '17 and early 
 
 [TBC]
 
-### Potential Client(s):
+### Potential Client(s)
 
 Investors, both old and new, would be interested in calculated predictions of Bitcoin's future value. 
 
-### Source of Data:
+### Source of Data
 
 Data set: https://www.quandl.com/data/BITSTAMP/USD-USD-BITCOIN-Exchange-Rate
 
