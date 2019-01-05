@@ -22,9 +22,11 @@ There is an increasing rate of suicide incidents in the United States over the p
 
 ### Potential Clients
 
+Health organizations would find this information helpful in terms of mortality rate caused by mental illnesses. 
+
 ### Source of Data
 
-The data is extracted from the ICPSR by the University of Michigan.  
+The data is extracted from the ICPSR of University of Michigan.  
 
 Data set(s): https://www.icpsr.umich.edu/icpsrweb/ICPSR/series/527
 
