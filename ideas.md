@@ -10,24 +10,12 @@ The dataset can answer multiple questions about those with extreme political vie
 
 ### Potential Client(s)
 
-Some thinktanks and social science organizations might find interest in such information. 
+Some thinktanks and social science organizations might find interest in such information. An example client would be the Pew Research Center, and they are highly known for collecting and analyzing data pertaining to human beings. 
 
 ### Source of Data
 
 Data set: http://openpsychometrics.org/_rawdata/RWAS.zip
 
-## 2. Bitcoin Historical Exchange Rate (US)
-
-Ever since the huge drop in Bitcoin's value between late December '17 and early January '18, many people have been skeptical of 
-
-[TBC]
-
-### Potential Client(s)
-
-Investors, both old and new, would be interested in calculated predictions of Bitcoin's future value. 
-
-### Source of Data
-
-Data set: https://www.quandl.com/data/BITSTAMP/USD-USD-BITCOIN-Exchange-Rate
+## 2. 
 
 ## 3. 
