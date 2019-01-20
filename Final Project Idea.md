@@ -60,12 +60,11 @@ Scale:
 6 = Slightly agree,
 7 = Moderately agree,
 8 = Strongly agree,
-9 = Very strongly agree,
+9 = Very strongly agree
                         
-
 ##Conclusion
 
-Through basic judgment, most of these questions express right-wing beliefs in their extremeties. Most people have taken this test for personal amusement, yet the dataset strictly includes accurate and honest answers to these questions. Those responsible for providing the test 
+Through basic judgment, most of these questions express right-wing beliefs in their extremities. Most people have taken this test for personal amusement, yet the dataset strictly includes accurate and honest answers to these questions. Those responsible for providing the test have made sure that the results are accurate enough for research purposes. 
 
 
 
