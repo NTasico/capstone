@@ -1,7 +1,7 @@
 # Final Capstone Project
 ## The RWAS Dataset
 
-My final project idea will involve the use of the RWAS dataset. My mentor and I have discussed the project ideas and we've come to the conclusion that the following will be solved: <i> Given a person with certain traits, geographical locations and education level, find the probability that the person has right-wing authoritarian views.</i> So far, the test has been taken by 9,857 people. 
+My final project idea will involve the use of the RWAS dataset. My mentor and I have discussed the project ideas and we've come to the conclusion that the following will be solved: <i> Given a person with certain traits, geographical location and education level, find the probability that the person has right-wing authoritarian views.</i> So far, the test has been taken by 9,857 people. 
 
 ## Questions Used In RWAS
 The following questions have been used in the questionnaire (Those in bold are in positively correlated with RWA):
