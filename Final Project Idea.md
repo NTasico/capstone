@@ -26,7 +26,7 @@ The following questions have been used in the questionnaire (Those in bold are i
 
 10. <b>Our country will be destroyed someday if we do not smash the perversions eating away at our moral fiber and traditional beliefs.</b>
 
-11. <b>Everyone should have their own lifestyle, religious beliefs, and sexual preferences, even if it makes them different from everyone else.</b>
+11. Everyone should have their own lifestyle, religious beliefs, and sexual preferences, even if it makes them different from everyone else.
 
 12. <b>The “old-fashioned ways” and the “old-fashioned values” still show the best way to live.</b>
 
