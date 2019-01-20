@@ -1,8 +1,7 @@
 # Final Capstone Project
 ## The RWAS Dataset
-The RWAS test has been taken by over one million people worldwide.
 
-My final project idea will involve the use of the RWAS dataset. My mentor and I have discussed the project ideas and we've come to the conclusion that the following will be solved: <i> Given a person with certain traits, geographical locations and education level, find the probability that the person has right-wing authoritarian views.</i> 
+My final project idea will involve the use of the RWAS dataset. My mentor and I have discussed the project ideas and we've come to the conclusion that the following will be solved: <i> Given a person with certain traits, geographical locations and education level, find the probability that the person has right-wing authoritarian views.</i> So far, the test has been taken by 9,857 people. 
 
 ## Questions Used In RWAS
 The following questions have been used in the questionnaire (Those in bold are in positively correlated with RWA):
@@ -51,9 +50,22 @@ The following questions have been used in the questionnaire (Those in bold are i
 
 22. <b>This country would work a lot better if certain groups of troublemakers would just shut up and accept their group’s traditional place in society.</b>
 
+Scale:
+
+1 = Very strongly disagree,
+2 = Strongly disagree,
+3 = Moderately disagree,
+4 = Slightly disagree,
+5 = Neutral,
+6 = Slightly agree,
+7 = Moderately agree,
+8 = Strongly agree,
+9 = Very strongly agree,
+                        
+
 ##Conclusion
 
-Through basic judgment, most of these questions express right-wing beliefs in their extremeties. Most people have taken this test for personal amusement, yet the dataset strictly includes accurate and honest answers to these questions. 
+Through basic judgment, most of these questions express right-wing beliefs in their extremeties. Most people have taken this test for personal amusement, yet the dataset strictly includes accurate and honest answers to these questions. Those responsible for providing the test 
 
 
 
